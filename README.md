@@ -27,13 +27,6 @@ Mi enfoque se centra en la **detección temprana de defectos**, la **mejora cont
 
 ---
 
-## 🎓 Educación
-
-- **Ingeniería en Sistemas de la Información (Incompleto)** — UTN Córdoba  
-- **Perito Mercantil Contable e Impositivo** — Escuela de Comercio “Malvinas Argentinas”, Jujuy
-
----
-
 ## 🧠 Habilidades Blandas
 - Resolución de problemas  
 - Trabajo en equipo  
@@ -41,6 +34,13 @@ Mi enfoque se centra en la **detección temprana de defectos**, la **mejora cont
 - Comunicación efectiva  
 - Orientación al detalle  
 - Liderazgo y organización  
+
+---
+
+## 🎓 Educación
+
+- **Ingeniería en Sistemas de la Información (Incompleto)** — UTN Córdoba  
+- **Perito Mercantil Contable e Impositivo** — Escuela de Comercio “Malvinas Argentinas”, Jujuy
 
 ---
 
