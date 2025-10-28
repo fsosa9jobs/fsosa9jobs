@@ -27,22 +27,6 @@ Mi enfoque se centra en la **detección temprana de defectos**, la **mejora cont
 
 ---
 
-## 💼 Experiencia Profesional
-
-### 🔹 **Avature** — *Senior Software QA Analyst*  
-📅 Julio 2021 – Abril 2025  
-- Diseño y ejecución de pruebas manuales y exploratorias.  
-- Validación de integraciones y procesos en CI/CD.  
-- Contribución a la entrega de productos escalables y confiables para clientes internacionales.
-
-### 🔹 **Bancor** — *Senior Software QA*  
-📅 Julio 2014 – Mayo 2021  
-- Testing funcional, no funcional, de performance y seguridad en entornos financieros.  
-- Validación de datos y procesos backend garantizando integridad de información.  
-- Capacitación a usuarios y soporte a producción.
-
----
-
 ## 🎓 Educación
 
 - **Ingeniería en Sistemas de la Información (Incompleto)** — UTN Córdoba  
