@@ -54,14 +54,11 @@ Mi enfoque se centra en la **detección temprana de defectos**, la **mejora cont
 
 ---
 
-## 💬 Idiomas
-- Español: Nativo  
-- Inglés: Intermedio (A2–B1)
 
----
-
-⭐ *“La calidad no es un acto, es un hábito.” – Aristóteles*  
-
+## 🤝 Colaboración y Comunidad
+Me apasiona aprender y compartir conocimiento.  
+Estoy siempre abierto a **colaborar en proyectos**, contribuir en lo que sea necesario y participar en iniciativas donde pueda **aportar valor y experiencia**.  
+Si tenés una idea, proyecto o desafío, ¡me encantaría ser parte!
 
 <!--
 **fsosa9jobs/fsosa9jobs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
